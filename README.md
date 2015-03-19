@@ -22,7 +22,7 @@
 7. Verify "Confirm Password" field presence. Field should be marked as required (*).
 8. Verify "First Name" field presence. Field should be marked as required (*).
 9. Verify "Last Name" field presence. Field should be marked as required (*).
-10. Verify "Gender" radio buttons "Male" and "Female" presence. Radio buttons field should be marked as required (*).
+10. Verify "Gender" radio buttons "Male" and "Female" presence. 2Radio buttons field should be marked as required (*).
 11. Verify "Weight" field presence. Field should be marked as required (*).
 12. Verify "Goal Weight" field presence. Field should be marked as required (*).
 13. Verify "Height" field presence. Field should be marked as required (*).
