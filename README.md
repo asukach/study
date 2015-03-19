@@ -14,7 +14,7 @@
 ***Steps:***
 
 1. Verify "EVOLUTION 359" logo presence.
-2. Verify "Register" and "Log In" links presence to the right from logo.
+2. Verify "Register" and "Log In" links presence to th2e right from logo.
 3. Verify "Registration" title presence.
 4. Verify "Username" field presence. Field should be marked as required (*).
 5. Verify "Email Address" field presence. Field should be marked as required (*).
