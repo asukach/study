@@ -34,3 +34,5 @@ Press "Login" button
 
 ***Expected results:***
 
+Output of report : "Login or password is incorrect"
+
