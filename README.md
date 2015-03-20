@@ -7,15 +7,30 @@
 ===============================================================================
 ****Pre-Conditions****
 
-1.Authorized user
-2. Open web page https://mail.ukr.net/desktop/login
+1. Open web page https://mail.ukr.net/desktop/login
  
 ***Steps:***
 
-Enter "login" as "Your mail"
-Enter "Password" as "Password"
+Enter "anatoly096" as "Your mail"
+Enter "a123b321" as "Password"
 Press "Login" button
 
 ***Expected results:***
 
 Web page succesfully opens
+
+===============================================================================
+=======================TEST CASE TC#01-1 Unsuccesful Login ======================
+===============================================================================
+****Pre-Conditions****
+
+1. Open web page https://mail.ukr.net/desktop/login
+ 
+***Steps:***
+
+Enter "anatoty096" as "Your mail"
+Enter "a123b321" as "Password"
+Press "Login" button
+
+***Expected results:***
+
