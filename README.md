@@ -18,4 +18,4 @@ Press "Login" button
 
 ***Expected results:***
 
-Web page https://mail.ukr.net/desktop#msglist/f0/p0 succesfully opens
+Web page succesfully opens
